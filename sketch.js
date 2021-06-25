@@ -89,6 +89,10 @@ return false;
               document.getElementById("1").innerHTML="oh you have cold don't worry.if you have headache then press[q]";
                   return false;
             }
+    else{
+       document.getElementById("1").innerHTML="i don't know";
+                  return false;
+    }
             
             }
           function page(){
