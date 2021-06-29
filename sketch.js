@@ -17,6 +17,7 @@ return false;
           document.getElementById("1").innerHTML="caling police...."
           return false;
          
+          
             }
         if(a=="open amazon"){
           open("https://amazon.com")
