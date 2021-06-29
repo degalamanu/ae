@@ -94,7 +94,7 @@ return false;
                   return false;
     }
             
-            }
+            
           function page(){
            
             open("https://console.dialogflow.com/api-client/demo/embedded/6b37f443-8d00-4a58-8f28-efa773358bf3")
