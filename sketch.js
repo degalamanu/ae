@@ -24,6 +24,12 @@ return false;
           document.getElementById("1").innerHTML="opening amazon...";
           return false;
         }
+     if(a=="open youtube"){
+          open("https://youtube.com")
+         
+          document.getElementById("1").innerHTML="opening amazon...";
+          return false;
+        }
         if(a=="open twitter"){
           open("https://twitter.com")
          
